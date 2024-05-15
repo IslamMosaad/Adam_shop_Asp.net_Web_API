@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="efpt.config.json.user" />
+    <None Include="wwwroot\Uploaded\6ade7557-5cef-46dd-9fcc-bb3eddcde4d4__T-shirt3.png" />
+    <None Include="wwwroot\Uploaded\Images\008559be-aa2e-4a34-b1f0-c7fe2650d052__swim wear 1.jpg" />
+    <None Include="wwwroot\Uploaded\Images\0e146cd6-d7d1-410e-a723-c341f4c8ea0d__White Tshirt.jpg" />
+    <None Include="wwwroot\Uploaded\Images\27e29999-54d9-4299-b0b8-f9b199edb3e5__BabyClothing8.png" />
+    <None Include="wwwroot\Uploaded\Images\292f32f2-23ce-409a-98c0-8a1ab6584500product-4.jpg" />
+    <None Include="wwwroot\Uploaded\Images\38e2614f-636a-4bae-a0e0-55e115749254__BabyClothing5.png" />
+    <None Include="wwwroot\Uploaded\Images\3e2a780f-49d9-4a7b-b262-2189e1e44f15product-4.jpg" />
+    <None Include="wwwroot\Uploaded\Images\4016635c-2e45-4ff6-a516-86a07dd5116b__short and T-shirt.jpg" />
+    <None Include="wwwroot\Uploaded\Images\57697d9a-b58c-4dc6-a11e-96cf64cf6393__BlackDress.png" />
+    <None Include="wwwroot\Uploaded\Images\6ade7557-5cef-46dd-9fcc-bb3eddcde4d4__T-shirt3.png" />
+    <None Include="wwwroot\Uploaded\Images\746ee604-7e60-4575-82ea-2a9e65f381d4__BeageDress.png" />
+    <None Include="wwwroot\Uploaded\Images\7b60320c-37da-4790-a23c-2296f264f2ee__Pant 8.png" />
+    <None Include="wwwroot\Uploaded\Images\9026d70c-8941-4c1a-8f49-1f811335549e__product-4.jpg" />
+    <None Include="wwwroot\Uploaded\Images\9666b03e-e1ef-45e5-a112-cf63e6d000ee__swim wear 2.jpg" />
+    <None Include="wwwroot\Uploaded\Images\a0498b9f-88d7-4aae-8f34-c677faff1bb3__Blazer1.jpg" />
+    <None Include="wwwroot\Uploaded\Images\a73d389f-504c-4c1d-9f1e-2a01fb247615__Pant 7.png" />
+    <None Include="wwwroot\Uploaded\Images\c7898326-a777-4a23-bdfa-358715263c4f__Blazer2.jpg" />
+    <None Include="wwwroot\Uploaded\Images\d351e6bd-bb51-43a8-999a-4acec9942016__shoes_1.jpg" />
+    <None Include="wwwroot\Uploaded\Images\d571e839-ab12-4537-a1ca-873f885bc701__jaket_1.jpg" />
+    <None Include="wwwroot\Uploaded\Images\e3d5f17f-172b-4baa-9e2e-63b47af3da2d__Black Tshirt.jpg" />
+    <None Include="wwwroot\Uploaded\Images\fc73bb8c-320d-4d53-a078-a58f2ce11f34__T-shirt1.png" />
+  </ItemGroup>
+
+</Project>
