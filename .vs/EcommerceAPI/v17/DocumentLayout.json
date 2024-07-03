@@ -1,34 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|e:\\islam learning prog\\iti journey\\46-angular 17\\api _ angular full project\\ecommerceapi\\ecommerceapi\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|e:\\islam learning prog\\iti journey\\46-angular 17\\api _ angular full project\\ecommerceapi\\ecommerceapi\\repositories\\repos\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\repositories\\repos\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|e:\\islam learning prog\\iti journey\\46-angular 17\\api _ angular full project\\ecommerceapi\\ecommerceapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|e:\\islam learning prog\\iti journey\\46-angular 17\\api _ angular full project\\ecommerceapi\\ecommerceapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\islam_mosad\\downloads\\visual studio\\adam\u0027s shop api\\adam_shop_asp.net_web_api\\ecommerceapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|e:\\islam learning prog\\iti journey\\46-angular 17\\api _ angular full project\\ecommerceapi\\ecommerceapi\\dto\\dto_classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\dto\\dto_classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\islam_mosad\\downloads\\visual studio\\adam\u0027s shop api\\adam_shop_asp.net_web_api\\ecommerceapi\\services\\productcachem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\services\\productcachem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|e:\\islam learning prog\\iti journey\\46-angular 17\\api _ angular full project\\ecommerceapi\\ecommerceapi\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\islam_mosad\\downloads\\visual studio\\adam\u0027s shop api\\adam_shop_asp.net_web_api\\ecommerceapi\\services\\iproductcachem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\services\\iproductcachem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|e:\\islam learning prog\\iti journey\\46-angular 17\\api _ angular full project\\ecommerceapi\\ecommerceapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\islam_mosad\\downloads\\visual studio\\adam\u0027s shop api\\adam_shop_asp.net_web_api\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "EcommerceAPI\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Title": "IProductCacheM.cs",
+              "DocumentMoniker": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\IProductCacheM.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Services\\IProductCacheM.cs",
+              "ToolTip": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\IProductCacheM.cs",
+              "RelativeToolTip": "EcommerceAPI\\Services\\IProductCacheM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T20:52:15.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\Repositories\\Repos\\Repository.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Repositories\\Repos\\Repository.cs",
-              "ToolTip": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\Repositories\\Repos\\Repository.cs",
-              "RelativeToolTip": "EcommerceAPI\\Repositories\\Repos\\Repository.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAArwEQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T20:51:10.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T17:20:47.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DTO_Classes.cs",
-              "DocumentMoniker": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\DTO\\DTO_Classes.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\DTO\\DTO_Classes.cs",
-              "ToolTip": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\DTO\\DTO_Classes.cs",
-              "RelativeToolTip": "EcommerceAPI\\DTO\\DTO_Classes.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAArwEUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T17:31:51.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Models\\CartItem.cs",
-              "ToolTip": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\Models\\CartItem.cs",
-              "RelativeToolTip": "EcommerceAPI\\Models\\CartItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:47:35.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CartItemController.cs",
-              "DocumentMoniker": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\Controllers\\CartItemController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\CartItemController.cs",
-              "ToolTip": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\Controllers\\CartItemController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\CartItemController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAADwv4EAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T20:26:20.852Z",
+              "WhenOpened": "2024-07-03T08:46:48.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ImageController.cs",
-              "DocumentMoniker": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\Controllers\\ImageController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\ImageController.cs",
-              "ToolTip": "E:\\islam learning prog\\iti journey\\46-Angular 17\\API _ Angular Full project\\EcommerceAPI\\EcommerceAPI\\Controllers\\ImageController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\ImageController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAArwAoAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "ProductCacheM.cs",
+              "DocumentMoniker": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\ProductCacheM.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Services\\ProductCacheM.cs",
+              "ToolTip": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\ProductCacheM.cs",
+              "RelativeToolTip": "EcommerceAPI\\Services\\ProductCacheM.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAArwG0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T18:26:39.538Z"
+              "WhenOpened": "2024-07-03T08:32:45.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:20:47.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Program.cs",
+              "RelativeToolTip": "EcommerceAPI\\Program.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAIwJ0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:27:52.924Z",
+              "EditorCaption": ""
             }
           ]
         }

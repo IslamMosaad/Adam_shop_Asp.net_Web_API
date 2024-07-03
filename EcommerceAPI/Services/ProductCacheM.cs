@@ -1,19 +1,25 @@
-﻿using EcommerceAPI.DTO;
+﻿using AutoMapper;
+using EcommerceAPI.DTO;
 using EcommerceAPI.Models;
 using EcommerceAPI.Unit_OF_Work;
+using Microsoft.Extensions.Caching.Distributed;
 using Microsoft.Extensions.Caching.Memory;
+using System.Text.Json;
 
 namespace EcommerceAPI.Services
 {
     public class ProductCacheM: IProductCacheM
     {
         private readonly IMemoryCache _cache;
+        private readonly IDistributedCache _redisCache;
         private readonly IUnitOfWork<Product> _ProductUnit;
-
-        public ProductCacheM(IMemoryCache cache, IUnitOfWork<Product> ProductUnit)
+        private readonly IMapper _Mapper;
+        public ProductCacheM(IMemoryCache cache, IDistributedCache redisCache, IUnitOfWork<Product> ProductUnit, IMapper Mapper)
         {
             _cache = cache;
             _ProductUnit = ProductUnit;
+            _redisCache = redisCache;
+            _Mapper = Mapper;
         }
 
         public async Task<Product> GetProductFromCachedDataAsync(int id)
@@ -34,7 +40,7 @@ namespace EcommerceAPI.Services
             return value;
         }
 
-
+        #region in memory caching , handling concurrency 
         //public async Task<Product> GetProductFromCachedDataAsync(int id)
         //{
         //    string key = id.ToString();
@@ -60,6 +66,49 @@ namespace EcommerceAPI.Services
         //    // Return the cached data
         //    return value;
         //}
+        #endregion
+
+
+        public async Task<ProductDTO> GetProductFromCachedDataRedisAsync(int id)
+        {
+            string key = id.ToString();
+
+            var productString = await _redisCache.GetStringAsync(key);
+            if (productString is not null)
+            {
+                // Deserialize the product from JSON string
+                var productFromCache = JsonSerializer.Deserialize<Product>(productString);
+                ProductDTO productDTO1 = _Mapper.Map<ProductDTO>(productFromCache);
+                return productDTO1;
+            }
+
+            // Data is not in cache, so fetch or compute the data
+            Product product = await _ProductUnit.Repository.GetByIdAsync(id);
+
+            #region because of using lazy loading i should avoid A possible object cycle error
+            ProductDTO productDTO = _Mapper.Map<ProductDTO>(product);
+            
+            #endregion
+
+            if (productDTO != null)
+            {
+                // Serialize the product to JSON string
+                var productJson = JsonSerializer.Serialize(productDTO);
+
+                var cacheEntryOptions = new DistributedCacheEntryOptions
+                {
+                    // Set the absolute expiration time
+                    AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(5)
+                };
+
+                // Set the data in cache with the expiration options
+                await _redisCache.SetStringAsync(key, productJson, cacheEntryOptions);
+            }
+
+            // Return the product
+            return productDTO;
+        }
+
 
 
     }

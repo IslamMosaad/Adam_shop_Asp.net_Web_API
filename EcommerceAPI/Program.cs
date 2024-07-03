@@ -148,8 +148,17 @@ namespace EcommerceAPI
 
 
             #region cacheManagement Service
+            //in memory cache
             builder.Services.AddMemoryCache();
 
+
+
+            // Configure Redis cache
+            builder.Services.AddStackExchangeRedisCache(options =>
+            {
+                options.Configuration = builder.Configuration.GetConnectionString("Redis");
+                options.InstanceName = "SampleInstance";
+            });
             #endregion
             var app = builder.Build();
 

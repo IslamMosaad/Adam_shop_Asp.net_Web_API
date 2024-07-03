@@ -67,8 +67,14 @@ namespace EcommerceAPI.Controllers
         [Produces("application/json")] //to send data in this format only 
         public async Task<ActionResult> GetProduct(int id)
         {
+            //normal way
             //var product = await _ProductUnit.Repository.GetByIdAsync(id);
-            var product = await _productCacheM.GetProductFromCachedDataAsync(id);
+
+            //using in memory cache ( built in service  AddMemoryCache())
+            //ar product = await _productCacheM.GetProductFromCachedDataAsync(id);
+
+            //using redis distributed service (AddStackExchangeRedisCache)
+            var product = await _productCacheM.GetProductFromCachedDataRedisAsync(id);
             if (product == null)return NotFound();
             ProductDTO productDTO = _Mapper.Map<ProductDTO>(product);
             return Ok(productDTO);

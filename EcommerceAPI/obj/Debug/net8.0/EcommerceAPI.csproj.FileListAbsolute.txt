@@ -529,3 +529,8 @@ C:\Users\Islam_Mosad\Downloads\visual studio\Adam's shop api\Adam_shop_Asp.net_W
 C:\Users\Islam_Mosad\Downloads\visual studio\Adam's shop api\Adam_shop_Asp.net_Web_API\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.pdb
 C:\Users\Islam_Mosad\Downloads\visual studio\Adam's shop api\Adam_shop_Asp.net_Web_API\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.genruntimeconfig.cache
 C:\Users\Islam_Mosad\Downloads\visual studio\Adam's shop api\Adam_shop_Asp.net_Web_API\EcommerceAPI\obj\Debug\net8.0\ref\EcommerceAPI.dll
+C:\Users\Islam_Mosad\Downloads\visual studio\Adam's shop api\Adam_shop_Asp.net_Web_API\EcommerceAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\Islam_Mosad\Downloads\visual studio\Adam's shop api\Adam_shop_Asp.net_Web_API\EcommerceAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Islam_Mosad\Downloads\visual studio\Adam's shop api\Adam_shop_Asp.net_Web_API\EcommerceAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Islam_Mosad\Downloads\visual studio\Adam's shop api\Adam_shop_Asp.net_Web_API\EcommerceAPI\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Islam_Mosad\Downloads\visual studio\Adam's shop api\Adam_shop_Asp.net_Web_API\EcommerceAPI\bin\Debug\net8.0\StackExchange.Redis.dll
