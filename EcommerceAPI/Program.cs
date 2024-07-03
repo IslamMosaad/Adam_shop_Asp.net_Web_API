@@ -110,6 +110,9 @@ namespace EcommerceAPI
             builder.Services.AddScoped<IUnitOfWork<Payment>, UnitOfWork<Payment>>();
             builder.Services.AddScoped<IUnitOfWork<User>, UnitOfWork<User>>();
             builder.Services.AddScoped<IUnitOfWork<PromoCode>, UnitOfWork<PromoCode>>();
+
+            builder.Services.AddScoped<IProductCacheM, ProductCacheM>();
+
             #endregion
 
             //use autoMapper
@@ -144,7 +147,10 @@ namespace EcommerceAPI
             #endregion
 
 
+            #region cacheManagement Service
+            builder.Services.AddMemoryCache();
 
+            #endregion
             var app = builder.Build();
 
 

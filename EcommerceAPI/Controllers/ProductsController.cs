@@ -11,6 +11,7 @@ using EcommerceAPI.Unit_OF_Work;
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
+using EcommerceAPI.Services;
 
 namespace EcommerceAPI.Controllers
 {
@@ -20,11 +21,14 @@ namespace EcommerceAPI.Controllers
     {
         private readonly IUnitOfWork<Product> _ProductUnit;
         private readonly IMapper _Mapper;
+        private readonly IProductCacheM _productCacheM;
 
-        public ProductsController(IUnitOfWork<Product> ProductUnit,IMapper Mapper)
+
+        public ProductsController(IUnitOfWork<Product> ProductUnit,IMapper Mapper, IProductCacheM productCacheM)
         {
             _ProductUnit = ProductUnit;
             _Mapper = Mapper;
+            _productCacheM = productCacheM;
         }
 
         // GET: api/Products
@@ -63,7 +67,8 @@ namespace EcommerceAPI.Controllers
         [Produces("application/json")] //to send data in this format only 
         public async Task<ActionResult> GetProduct(int id)
         {
-            var product = await _ProductUnit.Repository.GetByIdAsync(id);
+            //var product = await _ProductUnit.Repository.GetByIdAsync(id);
+            var product = await _productCacheM.GetProductFromCachedDataAsync(id);
             if (product == null)return NotFound();
             ProductDTO productDTO = _Mapper.Map<ProductDTO>(product);
             return Ok(productDTO);
