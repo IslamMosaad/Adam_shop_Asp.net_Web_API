@@ -40,9 +40,15 @@ namespace EcommerceAPI.Repositories.Repos
             context.Set<T>().Add(entity);
         }
 
-        public async Task UpdateAsync(T entity)
+        public async Task<bool> UpdateAsync(T entity)
         {
-            context.Entry(entity).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+            try
+            {
+                context.Entry(entity).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+            }
+            catch  { return false; }
+            return true;
+          
         }
 
         public async Task DeleteAsync(int id)

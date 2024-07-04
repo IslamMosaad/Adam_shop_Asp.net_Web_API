@@ -14,7 +14,8 @@ namespace EcommerceAPI.Services
         private readonly IDistributedCache _redisCache;
         private readonly IUnitOfWork<Product> _ProductUnit;
         private readonly IMapper _Mapper;
-        public ProductCacheM(IMemoryCache cache, IDistributedCache redisCache, IUnitOfWork<Product> ProductUnit, IMapper Mapper)
+        public ProductCacheM(IMemoryCache cache, IDistributedCache redisCache, 
+            IUnitOfWork<Product> ProductUnit, IMapper Mapper)
         {
             _cache = cache;
             _ProductUnit = ProductUnit;
@@ -77,9 +78,8 @@ namespace EcommerceAPI.Services
             if (productString is not null)
             {
                 // Deserialize the product from JSON string
-                var productFromCache = JsonSerializer.Deserialize<Product>(productString);
-                ProductDTO productDTO1 = _Mapper.Map<ProductDTO>(productFromCache);
-                return productDTO1;
+                var productFromCache = JsonSerializer.Deserialize<ProductDTO>(productString);
+                return productFromCache;
             }
 
             // Data is not in cache, so fetch or compute the data
@@ -87,29 +87,50 @@ namespace EcommerceAPI.Services
 
             #region because of using lazy loading i should avoid A possible object cycle error
             ProductDTO productDTO = _Mapper.Map<ProductDTO>(product);
-            
             #endregion
 
             if (productDTO != null)
             {
                 // Serialize the product to JSON string
                 var productJson = JsonSerializer.Serialize(productDTO);
-
                 var cacheEntryOptions = new DistributedCacheEntryOptions
                 {
                     // Set the absolute expiration time
                     AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(5)
                 };
-
                 // Set the data in cache with the expiration options
                 await _redisCache.SetStringAsync(key, productJson, cacheEntryOptions);
             }
-
             // Return the product
             return productDTO;
         }
 
 
+        public async Task<bool> UpdateProductAsync(ProductDTO updatedProductDto)
+        {
+            string key = updatedProductDto.id.ToString();
+
+            // Update the product in the database
+            Product updatedProduct = _Mapper.Map<Product>(updatedProductDto);
+            bool isUpdated = await _ProductUnit.Repository.UpdateAsync(updatedProduct);
+
+            if (isUpdated)
+            {
+                // Invalidate the cache
+                await _redisCache.RemoveAsync(key);
+
+                // Optionally, you can update the cache with the new product data
+                var productJson = JsonSerializer.Serialize(updatedProductDto);
+                var cacheEntryOptions = new DistributedCacheEntryOptions
+                {
+                    // Set the absolute expiration time
+                    AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(5)
+                };
+                await _redisCache.SetStringAsync(key, productJson, cacheEntryOptions);
+            }
+
+            return isUpdated;
+        }
 
     }
 }

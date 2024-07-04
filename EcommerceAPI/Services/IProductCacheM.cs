@@ -7,5 +7,6 @@ namespace EcommerceAPI.Services
     {
         public Task<Product> GetProductFromCachedDataAsync(int key);
         public  Task<ProductDTO> GetProductFromCachedDataRedisAsync(int id);
+        public  Task<bool> UpdateProductAsync(ProductDTO updatedProductDto);
     }
 }
