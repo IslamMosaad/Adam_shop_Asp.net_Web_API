@@ -157,7 +157,7 @@ namespace EcommerceAPI
             builder.Services.AddStackExchangeRedisCache(options =>
             {
                 options.Configuration = builder.Configuration.GetConnectionString("Redis");
-                options.InstanceName = "SampleInstance";
+                //options.InstanceName = "SampleInstance";
             });
             #endregion
             var app = builder.Build();
