@@ -11,7 +11,7 @@ using EcommerceAPI.Unit_OF_Work;
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
-using EcommerceAPI.Services;
+using EcommerceAPI.Services.cacheServices;
 
 namespace EcommerceAPI.Controllers
 {

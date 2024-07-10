@@ -6,15 +6,15 @@ using Microsoft.Extensions.Caching.Distributed;
 using Microsoft.Extensions.Caching.Memory;
 using System.Text.Json;
 
-namespace EcommerceAPI.Services
+namespace EcommerceAPI.Services.cacheServices
 {
-    public class ProductCacheM: IProductCacheM
+    public class ProductCacheM : IProductCacheM
     {
         private readonly IMemoryCache _cache;
         private readonly IDistributedCache _redisCache;
         private readonly IUnitOfWork<Product> _ProductUnit;
         private readonly IMapper _Mapper;
-        public ProductCacheM(IMemoryCache cache, IDistributedCache redisCache, 
+        public ProductCacheM(IMemoryCache cache, IDistributedCache redisCache,
             IUnitOfWork<Product> ProductUnit, IMapper Mapper)
         {
             _cache = cache;
@@ -25,7 +25,7 @@ namespace EcommerceAPI.Services
 
         public async Task<Product> GetProductFromCachedDataAsync(int id)
         {
-            string key =id.ToString();
+            string key = id.ToString();
             if (!_cache.TryGetValue(key, out Product value))
             {
                 // Data is not in cache, so fetch or compute the data
@@ -37,7 +37,7 @@ namespace EcommerceAPI.Services
             }
 
             // Return the cached data
-          
+
             return value;
         }
 

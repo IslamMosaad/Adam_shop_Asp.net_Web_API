@@ -672,6 +672,56 @@
           }
         }
       },
+      "MessagePack/2.5.171": {
+        "type": "package",
+        "dependencies": {
+          "MessagePack.Annotations": "2.5.171",
+          "Microsoft.NET.StringTools": "17.6.3"
+        },
+        "compile": {
+          "lib/net6.0/MessagePack.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MessagePack.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MessagePack.Annotations/2.5.171": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MessagePack.Annotations.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/MessagePack.Annotations.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MessagePack.AspNetCoreMvcFormatter/2.5.171": {
+        "type": "package",
+        "dependencies": {
+          "MessagePack": "2.5.171",
+          "Microsoft.NET.StringTools": "17.6.3"
+        },
+        "compile": {
+          "lib/net6.0/MessagePack.AspNetCoreMvcFormatter.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MessagePack.AspNetCoreMvcFormatter.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.AspNetCore.Authentication.JwtBearer/8.0.4": {
         "type": "package",
         "dependencies": {
@@ -3830,6 +3880,51 @@
         "lib/netstandard1.0/zh-Hant/Humanizer.resources.dll",
         "lib/netstandard2.0/zh-Hant/Humanizer.resources.dll",
         "logo.png"
+      ]
+    },
+    "MessagePack/2.5.171": {
+      "sha512": "eX0wTFtE4teu2iDWm/eEGqvVEeO9dqaRXu6MXu1MnhQ/wBkixEjh+1SlKaSh41LL5L7WUJlK04EBpz8FSaGOqw==",
+      "type": "package",
+      "path": "messagepack/2.5.171",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net472/MessagePack.dll",
+        "lib/net472/MessagePack.xml",
+        "lib/net6.0/MessagePack.dll",
+        "lib/net6.0/MessagePack.xml",
+        "lib/netstandard2.0/MessagePack.dll",
+        "lib/netstandard2.0/MessagePack.xml",
+        "messagepack.2.5.171.nupkg.sha512",
+        "messagepack.nuspec"
+      ]
+    },
+    "MessagePack.Annotations/2.5.171": {
+      "sha512": "iS5Zb6uiPn3QJVL814+xWlWeH/rW+p2qPoECjOhL7RV71ppld4vDpej5rq4YrxGdLtR66zf+AQwW919sPVMWgw==",
+      "type": "package",
+      "path": "messagepack.annotations/2.5.171",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/MessagePack.Annotations.dll",
+        "lib/netstandard2.0/MessagePack.Annotations.xml",
+        "messagepack.annotations.2.5.171.nupkg.sha512",
+        "messagepack.annotations.nuspec"
+      ]
+    },
+    "MessagePack.AspNetCoreMvcFormatter/2.5.171": {
+      "sha512": "v5fqKiH3BP5Ulqozr/G2eIQ5Zk4tjIYy+PBN0XoaqGIQ3koHc0BsVBBwBLd4Rt4RyDs1JUw07rXj4PYl3qzdXg==",
+      "type": "package",
+      "path": "messagepack.aspnetcoremvcformatter/2.5.171",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/MessagePack.AspNetCoreMvcFormatter.dll",
+        "lib/net6.0/MessagePack.AspNetCoreMvcFormatter.xml",
+        "lib/netstandard2.0/MessagePack.AspNetCoreMvcFormatter.dll",
+        "lib/netstandard2.0/MessagePack.AspNetCoreMvcFormatter.xml",
+        "messagepack.aspnetcoremvcformatter.2.5.171.nupkg.sha512",
+        "messagepack.aspnetcoremvcformatter.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Authentication.JwtBearer/8.0.4": {
@@ -8431,6 +8526,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper >= 13.0.1",
+      "MessagePack.AspNetCoreMvcFormatter >= 2.5.171",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.4",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.4",
       "Microsoft.EntityFrameworkCore.Proxies >= 8.0.4",
@@ -8445,19 +8541,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Islam_Mosad\\.nuget\\packages\\": {}
+    "C:\\Users\\Nvidia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\EcommerceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\EcommerceAPI.csproj",
       "projectName": "EcommerceAPI",
-      "projectPath": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\EcommerceAPI.csproj",
-      "packagesPath": "C:\\Users\\Islam_Mosad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\obj\\",
+      "projectPath": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\EcommerceAPI.csproj",
+      "packagesPath": "C:\\Users\\Nvidia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Islam_Mosad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nvidia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8465,7 +8561,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8492,6 +8587,10 @@
           "AutoMapper": {
             "target": "Package",
             "version": "[13.0.1, )"
+          },
+          "MessagePack.AspNetCoreMvcFormatter": {
+            "target": "Package",
+            "version": "[2.5.171, )"
           },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
@@ -8559,7 +8658,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

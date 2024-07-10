@@ -1,6 +1,8 @@
 
 using EcommerceAPI.Models;
 using EcommerceAPI.Services;
+using EcommerceAPI.Services.cacheModels;
+using EcommerceAPI.Services.cacheServices;
 using EcommerceAPI.Unit_OF_Work;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
@@ -159,6 +161,8 @@ namespace EcommerceAPI
                 options.Configuration = builder.Configuration.GetConnectionString("Redis");
                 //options.InstanceName = "SampleInstance";
             });
+
+            builder.Services.AddScoped<IRedisCache<Dish>, RedisCache<Dish>>();
             #endregion
             var app = builder.Build();
 
