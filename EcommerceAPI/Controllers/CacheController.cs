@@ -1,6 +1,5 @@
 ﻿using EcommerceAPI.Services.cacheModels;
 using EcommerceAPI.Services.cacheServices.sharedCache;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EcommerceAPI.Controllers
@@ -9,18 +8,42 @@ namespace EcommerceAPI.Controllers
     [ApiController]
     public class CacheController : ControllerBase
     {
-        [HttpPost("write")]
-        public IActionResult WriteCache([FromBody] Dish data)
+        [HttpPost("write/{minutes:int}")]
+        public IActionResult WriteCache([FromBody] Dish data, int minutes)
         {
-            MemoryMappedFileHelper<Dish>.WriteCacheData(data);
-            return Ok("Data written to memory-mapped file.");
+            if (data == null || string.IsNullOrEmpty(data.id.ToString()))
+            {
+                return BadRequest("Invalid data.");
+            }
+
+            try
+            {
+                MemoryMappedFileCache<Dish>.Set(data.id.ToString(), data, TimeSpan.FromMinutes(minutes));
+                return Ok("Data written to memory-mapped file.");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
         }
 
-        [HttpGet("read")]
-        public IActionResult ReadCache()
+        [HttpGet("read/{id:int}")]
+        public IActionResult ReadCache(int id)
         {
-            var data = MemoryMappedFileHelper<Dish>.ReadCacheData();
-            return Ok(data);
+            try
+            {
+                var data = MemoryMappedFileCache<Dish>.Get(id.ToString());
+                if (data == null)
+                {
+                    return NotFound("Data not found or expired.");
+                }
+
+                return Ok(data);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
         }
     }
 }

@@ -2,20 +2,24 @@
 using System.Collections.Generic;
 using System.IO;
 using System.IO.MemoryMappedFiles;
-using MessagePack;
-using MessagePack.Resolvers;
+using System.Linq;
+using System.Text;
 
 namespace EcommerceAPI.Services.cacheServices.sharedCache
 {
-    public static class MemoryMappedFileCache<T> where T : class
+    public class MemoryMappedFileString
     {
         private static readonly string MapName = "SharedMemoryMap";
         private static readonly long MapSize = 10 * 1024 * 1024; // 10 MB
         private static readonly object LockObject = new object();
 
-        public static void Set(string key, T value, TimeSpan expiration)
+        public static void Set(string key, string value, TimeSpan expiration)
         {
-            var cacheItem = new CacheItem<T>(value, DateTime.UtcNow.Add(expiration));
+            var cacheItem = new CacheItem
+            {
+                Value = value,
+                Expiration = DateTime.UtcNow.Add(expiration)
+            };
 
             lock (LockObject)
             {
@@ -28,7 +32,7 @@ namespace EcommerceAPI.Services.cacheServices.sharedCache
             }
         }
 
-        public static T Get(string key)
+        public static string Get(string key)
         {
             lock (LockObject)
             {
@@ -86,9 +90,9 @@ namespace EcommerceAPI.Services.cacheServices.sharedCache
             }
         }
 
-        private static Dictionary<string, CacheItem<T>> ReadAllEntries(MemoryMappedFile mmf)
+        private static Dictionary<string, CacheItem> ReadAllEntries(MemoryMappedFile mmf)
         {
-            var data = new Dictionary<string, CacheItem<T>>();
+            var data = new Dictionary<string, CacheItem>();
 
             try
             {
@@ -106,8 +110,8 @@ namespace EcommerceAPI.Services.cacheServices.sharedCache
                     var bytes = new byte[length];
                     accessor.ReadArray(8, bytes, 0, (int)length); // Read starting from offset 8 to skip the length value itself
 
-                    var options = MessagePackSerializerOptions.Standard.WithResolver(ContractlessStandardResolver.Instance);
-                    data = MessagePackSerializer.Deserialize<Dictionary<string, CacheItem<T>>>(bytes, options);
+                    var jsonString = Encoding.UTF8.GetString(bytes);
+                    data = Newtonsoft.Json.JsonConvert.DeserializeObject<Dictionary<string, CacheItem>>(jsonString);
                 }
             }
             catch (Exception ex)
@@ -119,17 +123,12 @@ namespace EcommerceAPI.Services.cacheServices.sharedCache
             return data;
         }
 
-        private static void WriteAllEntries(MemoryMappedFile mmf, Dictionary<string, CacheItem<T>> data)
+        private static void WriteAllEntries(MemoryMappedFile mmf, Dictionary<string, CacheItem> data)
         {
             try
             {
-                byte[] bytes;
-                var options = MessagePackSerializerOptions.Standard.WithResolver(ContractlessStandardResolver.Instance);
-                using (var memoryStream = new MemoryStream())
-                {
-                    MessagePackSerializer.Serialize(memoryStream, data, options);
-                    bytes = memoryStream.ToArray();
-                }
+                var jsonString = Newtonsoft.Json.JsonConvert.SerializeObject(data);
+                var bytes = Encoding.UTF8.GetBytes(jsonString);
 
                 Console.WriteLine($"Bytes to write: {bytes.Length}");
 
@@ -141,10 +140,6 @@ namespace EcommerceAPI.Services.cacheServices.sharedCache
 
                     // Write starting from offset 8 to store the length of bytes
                     accessor.WriteArray(8, bytes, 0, bytes.Length);
-
-                    // Read back to verify write success
-                    accessor.Read(0, out long writtenLength);
-                    Console.WriteLine($"Written length read back: {writtenLength}");
                 }
             }
             catch (Exception ex)
@@ -154,22 +149,10 @@ namespace EcommerceAPI.Services.cacheServices.sharedCache
             }
         }
 
-        [MessagePackObject]
-        public class CacheItem<T>
+        public class CacheItem
         {
-            [Key(0)]
-            public T Value { get; set; }
-
-            [Key(1)]
+            public string Value { get; set; }
             public DateTime Expiration { get; set; }
-
-            public CacheItem() { } // Parameterless constructor is required for serialization
-
-            public CacheItem(T value, DateTime expiration)
-            {
-                Value = value;
-                Expiration = expiration;
-            }
         }
     }
 }

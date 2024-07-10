@@ -805,3 +805,6 @@ C:\Users\Nvidia\Downloads\ecp\visual studio project\Adam_shop_Asp.net_Web_API\Ec
 C:\Users\Nvidia\Downloads\ecp\visual studio project\Adam_shop_Asp.net_Web_API\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.pdb
 C:\Users\Nvidia\Downloads\ecp\visual studio project\Adam_shop_Asp.net_Web_API\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.genruntimeconfig.cache
 C:\Users\Nvidia\Downloads\ecp\visual studio project\Adam_shop_Asp.net_Web_API\EcommerceAPI\obj\Debug\net8.0\ref\EcommerceAPI.dll
+C:\Users\Islam_Mosad\Downloads\visual studio\Adam's shop api\Adam_shop_Asp.net_Web_API\EcommerceAPI\bin\Debug\net8.0\MessagePack.dll
+C:\Users\Islam_Mosad\Downloads\visual studio\Adam's shop api\Adam_shop_Asp.net_Web_API\EcommerceAPI\bin\Debug\net8.0\MessagePack.Annotations.dll
+C:\Users\Islam_Mosad\Downloads\visual studio\Adam's shop api\Adam_shop_Asp.net_Web_API\EcommerceAPI\bin\Debug\net8.0\MessagePack.AspNetCoreMvcFormatter.dll

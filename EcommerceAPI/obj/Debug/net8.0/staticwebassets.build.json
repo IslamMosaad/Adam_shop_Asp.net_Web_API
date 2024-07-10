@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IN26ZSS06tCzB1wHii7JwHYJ1wnWYgKFVgwLfdq6fnM=",
+  "Hash": "eD/veSvZs0V1NLKCgdSjs+11P/D0KTamfnLckynGD8Y=",
   "Source": "EcommerceAPI",
   "BasePath": "_content/EcommerceAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EcommerceAPI\\wwwroot",
       "Source": "EcommerceAPI",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\008559be-aa2e-4a34-b1f0-c7fe2650d052__swim wear 1.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\008559be-aa2e-4a34-b1f0-c7fe2650d052__swim wear 1.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/008559be-aa2e-4a34-b1f0-c7fe2650d052__swim wear 1.jpg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\008559be-aa2e-4a34-b1f0-c7fe2650d052__swim wear 1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\0e146cd6-d7d1-410e-a723-c341f4c8ea0d__White Tshirt.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\0e146cd6-d7d1-410e-a723-c341f4c8ea0d__White Tshirt.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/0e146cd6-d7d1-410e-a723-c341f4c8ea0d__White Tshirt.jpg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\0e146cd6-d7d1-410e-a723-c341f4c8ea0d__White Tshirt.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\27e29999-54d9-4299-b0b8-f9b199edb3e5__BabyClothing8.png",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\27e29999-54d9-4299-b0b8-f9b199edb3e5__BabyClothing8.png",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/27e29999-54d9-4299-b0b8-f9b199edb3e5__BabyClothing8.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\27e29999-54d9-4299-b0b8-f9b199edb3e5__BabyClothing8.png"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\292f32f2-23ce-409a-98c0-8a1ab6584500product-4.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\292f32f2-23ce-409a-98c0-8a1ab6584500product-4.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/292f32f2-23ce-409a-98c0-8a1ab6584500product-4.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\292f32f2-23ce-409a-98c0-8a1ab6584500product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\38e2614f-636a-4bae-a0e0-55e115749254__BabyClothing5.png",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\38e2614f-636a-4bae-a0e0-55e115749254__BabyClothing5.png",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/38e2614f-636a-4bae-a0e0-55e115749254__BabyClothing5.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\38e2614f-636a-4bae-a0e0-55e115749254__BabyClothing5.png"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\3e2a780f-49d9-4a7b-b262-2189e1e44f15product-4.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\3e2a780f-49d9-4a7b-b262-2189e1e44f15product-4.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/3e2a780f-49d9-4a7b-b262-2189e1e44f15product-4.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\3e2a780f-49d9-4a7b-b262-2189e1e44f15product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\4016635c-2e45-4ff6-a516-86a07dd5116b__short and T-shirt.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\4016635c-2e45-4ff6-a516-86a07dd5116b__short and T-shirt.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/4016635c-2e45-4ff6-a516-86a07dd5116b__short and T-shirt.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\4016635c-2e45-4ff6-a516-86a07dd5116b__short and T-shirt.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\57697d9a-b58c-4dc6-a11e-96cf64cf6393__BlackDress.png",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\57697d9a-b58c-4dc6-a11e-96cf64cf6393__BlackDress.png",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/57697d9a-b58c-4dc6-a11e-96cf64cf6393__BlackDress.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\57697d9a-b58c-4dc6-a11e-96cf64cf6393__BlackDress.png"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\6ade7557-5cef-46dd-9fcc-bb3eddcde4d4__T-shirt3.png",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\6ade7557-5cef-46dd-9fcc-bb3eddcde4d4__T-shirt3.png",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/6ade7557-5cef-46dd-9fcc-bb3eddcde4d4__T-shirt3.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\6ade7557-5cef-46dd-9fcc-bb3eddcde4d4__T-shirt3.png"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\746ee604-7e60-4575-82ea-2a9e65f381d4__BeageDress.png",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\746ee604-7e60-4575-82ea-2a9e65f381d4__BeageDress.png",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/746ee604-7e60-4575-82ea-2a9e65f381d4__BeageDress.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\746ee604-7e60-4575-82ea-2a9e65f381d4__BeageDress.png"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\7b60320c-37da-4790-a23c-2296f264f2ee__Pant 8.png",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\7b60320c-37da-4790-a23c-2296f264f2ee__Pant 8.png",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/7b60320c-37da-4790-a23c-2296f264f2ee__Pant 8.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\7b60320c-37da-4790-a23c-2296f264f2ee__Pant 8.png"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\9026d70c-8941-4c1a-8f49-1f811335549e__product-4.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\9026d70c-8941-4c1a-8f49-1f811335549e__product-4.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/9026d70c-8941-4c1a-8f49-1f811335549e__product-4.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\9026d70c-8941-4c1a-8f49-1f811335549e__product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\9666b03e-e1ef-45e5-a112-cf63e6d000ee__swim wear 2.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\9666b03e-e1ef-45e5-a112-cf63e6d000ee__swim wear 2.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/9666b03e-e1ef-45e5-a112-cf63e6d000ee__swim wear 2.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\9666b03e-e1ef-45e5-a112-cf63e6d000ee__swim wear 2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\a0498b9f-88d7-4aae-8f34-c677faff1bb3__Blazer1.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\a0498b9f-88d7-4aae-8f34-c677faff1bb3__Blazer1.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/a0498b9f-88d7-4aae-8f34-c677faff1bb3__Blazer1.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\a0498b9f-88d7-4aae-8f34-c677faff1bb3__Blazer1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\a73d389f-504c-4c1d-9f1e-2a01fb247615__Pant 7.png",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\a73d389f-504c-4c1d-9f1e-2a01fb247615__Pant 7.png",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/a73d389f-504c-4c1d-9f1e-2a01fb247615__Pant 7.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\a73d389f-504c-4c1d-9f1e-2a01fb247615__Pant 7.png"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\c7898326-a777-4a23-bdfa-358715263c4f__Blazer2.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\c7898326-a777-4a23-bdfa-358715263c4f__Blazer2.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/c7898326-a777-4a23-bdfa-358715263c4f__Blazer2.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\c7898326-a777-4a23-bdfa-358715263c4f__Blazer2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\d351e6bd-bb51-43a8-999a-4acec9942016__shoes_1.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\d351e6bd-bb51-43a8-999a-4acec9942016__shoes_1.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/d351e6bd-bb51-43a8-999a-4acec9942016__shoes_1.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\d351e6bd-bb51-43a8-999a-4acec9942016__shoes_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\d571e839-ab12-4537-a1ca-873f885bc701__jaket_1.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\d571e839-ab12-4537-a1ca-873f885bc701__jaket_1.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/d571e839-ab12-4537-a1ca-873f885bc701__jaket_1.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\d571e839-ab12-4537-a1ca-873f885bc701__jaket_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\e3d5f17f-172b-4baa-9e2e-63b47af3da2d__Black Tshirt.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\e3d5f17f-172b-4baa-9e2e-63b47af3da2d__Black Tshirt.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/e3d5f17f-172b-4baa-9e2e-63b47af3da2d__Black Tshirt.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\e3d5f17f-172b-4baa-9e2e-63b47af3da2d__Black Tshirt.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\fc73bb8c-320d-4d53-a078-a58f2ce11f34__T-shirt1.png",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\fc73bb8c-320d-4d53-a078-a58f2ce11f34__T-shirt1.png",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/fc73bb8c-320d-4d53-a078-a58f2ce11f34__T-shirt1.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\fc73bb8c-320d-4d53-a078-a58f2ce11f34__T-shirt1.png"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\008559be-aa2e-4a34-b1f0-c7fe2650d052__swim wear 1.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\008559be-aa2e-4a34-b1f0-c7fe2650d052__swim wear 1.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/008559be-aa2e-4a34-b1f0-c7fe2650d052__swim wear 1.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\008559be-aa2e-4a34-b1f0-c7fe2650d052__swim wear 1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\0e146cd6-d7d1-410e-a723-c341f4c8ea0d__White Tshirt.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\0e146cd6-d7d1-410e-a723-c341f4c8ea0d__White Tshirt.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/0e146cd6-d7d1-410e-a723-c341f4c8ea0d__White Tshirt.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\0e146cd6-d7d1-410e-a723-c341f4c8ea0d__White Tshirt.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\27e29999-54d9-4299-b0b8-f9b199edb3e5__BabyClothing8.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\27e29999-54d9-4299-b0b8-f9b199edb3e5__BabyClothing8.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/27e29999-54d9-4299-b0b8-f9b199edb3e5__BabyClothing8.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\27e29999-54d9-4299-b0b8-f9b199edb3e5__BabyClothing8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\38e2614f-636a-4bae-a0e0-55e115749254__BabyClothing5.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\38e2614f-636a-4bae-a0e0-55e115749254__BabyClothing5.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/38e2614f-636a-4bae-a0e0-55e115749254__BabyClothing5.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\38e2614f-636a-4bae-a0e0-55e115749254__BabyClothing5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\4016635c-2e45-4ff6-a516-86a07dd5116b__short and T-shirt.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\4016635c-2e45-4ff6-a516-86a07dd5116b__short and T-shirt.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/4016635c-2e45-4ff6-a516-86a07dd5116b__short and T-shirt.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\4016635c-2e45-4ff6-a516-86a07dd5116b__short and T-shirt.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\57697d9a-b58c-4dc6-a11e-96cf64cf6393__BlackDress.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\57697d9a-b58c-4dc6-a11e-96cf64cf6393__BlackDress.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/57697d9a-b58c-4dc6-a11e-96cf64cf6393__BlackDress.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\57697d9a-b58c-4dc6-a11e-96cf64cf6393__BlackDress.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\6ade7557-5cef-46dd-9fcc-bb3eddcde4d4__T-shirt3.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\6ade7557-5cef-46dd-9fcc-bb3eddcde4d4__T-shirt3.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/6ade7557-5cef-46dd-9fcc-bb3eddcde4d4__T-shirt3.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\6ade7557-5cef-46dd-9fcc-bb3eddcde4d4__T-shirt3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\746ee604-7e60-4575-82ea-2a9e65f381d4__BeageDress.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\746ee604-7e60-4575-82ea-2a9e65f381d4__BeageDress.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/746ee604-7e60-4575-82ea-2a9e65f381d4__BeageDress.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\746ee604-7e60-4575-82ea-2a9e65f381d4__BeageDress.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\7b60320c-37da-4790-a23c-2296f264f2ee__Pant 8.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\7b60320c-37da-4790-a23c-2296f264f2ee__Pant 8.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/7b60320c-37da-4790-a23c-2296f264f2ee__Pant 8.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\7b60320c-37da-4790-a23c-2296f264f2ee__Pant 8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\9026d70c-8941-4c1a-8f49-1f811335549e__product-4.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\9026d70c-8941-4c1a-8f49-1f811335549e__product-4.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/9026d70c-8941-4c1a-8f49-1f811335549e__product-4.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\9026d70c-8941-4c1a-8f49-1f811335549e__product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\9666b03e-e1ef-45e5-a112-cf63e6d000ee__swim wear 2.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\9666b03e-e1ef-45e5-a112-cf63e6d000ee__swim wear 2.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/9666b03e-e1ef-45e5-a112-cf63e6d000ee__swim wear 2.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\9666b03e-e1ef-45e5-a112-cf63e6d000ee__swim wear 2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\a0498b9f-88d7-4aae-8f34-c677faff1bb3__Blazer1.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\a0498b9f-88d7-4aae-8f34-c677faff1bb3__Blazer1.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/a0498b9f-88d7-4aae-8f34-c677faff1bb3__Blazer1.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\a0498b9f-88d7-4aae-8f34-c677faff1bb3__Blazer1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\a73d389f-504c-4c1d-9f1e-2a01fb247615__Pant 7.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\a73d389f-504c-4c1d-9f1e-2a01fb247615__Pant 7.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/a73d389f-504c-4c1d-9f1e-2a01fb247615__Pant 7.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\a73d389f-504c-4c1d-9f1e-2a01fb247615__Pant 7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\c7898326-a777-4a23-bdfa-358715263c4f__Blazer2.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\c7898326-a777-4a23-bdfa-358715263c4f__Blazer2.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/c7898326-a777-4a23-bdfa-358715263c4f__Blazer2.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\c7898326-a777-4a23-bdfa-358715263c4f__Blazer2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\d351e6bd-bb51-43a8-999a-4acec9942016__shoes_1.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\d351e6bd-bb51-43a8-999a-4acec9942016__shoes_1.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/d351e6bd-bb51-43a8-999a-4acec9942016__shoes_1.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\d351e6bd-bb51-43a8-999a-4acec9942016__shoes_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\d571e839-ab12-4537-a1ca-873f885bc701__jaket_1.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\d571e839-ab12-4537-a1ca-873f885bc701__jaket_1.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/d571e839-ab12-4537-a1ca-873f885bc701__jaket_1.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\d571e839-ab12-4537-a1ca-873f885bc701__jaket_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\e3d5f17f-172b-4baa-9e2e-63b47af3da2d__Black Tshirt.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\e3d5f17f-172b-4baa-9e2e-63b47af3da2d__Black Tshirt.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/e3d5f17f-172b-4baa-9e2e-63b47af3da2d__Black Tshirt.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\Uploaded\\Images\\e3d5f17f-172b-4baa-9e2e-63b47af3da2d__Black Tshirt.jpg"
     },
     {
-      "Identity": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\fc73bb8c-320d-4d53-a078-a58f2ce11f34__T-shirt1.jpg",
+      "Identity": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\Uploaded\\Images\\fc73bb8c-320d-4d53-a078-a58f2ce11f34__T-shirt1.jpg",
       "SourceId": "EcommerceAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\wwwroot\\",
       "BasePath": "_content/EcommerceAPI",
       "RelativePath": "Uploaded/Images/fc73bb8c-320d-4d53-a078-a58f2ce11f34__T-shirt1.jpg",
       "AssetKind": "All",

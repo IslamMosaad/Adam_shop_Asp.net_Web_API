@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\EcommerceAPI.csproj": {}
+    "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\EcommerceAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\EcommerceAPI.csproj": {
+    "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\EcommerceAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\EcommerceAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\EcommerceAPI.csproj",
         "projectName": "EcommerceAPI",
-        "projectPath": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\EcommerceAPI.csproj",
-        "packagesPath": "C:\\Users\\Nvidia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\obj\\",
+        "projectPath": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\EcommerceAPI.csproj",
+        "packagesPath": "C:\\Users\\Islam_Mosad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam's shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nvidia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Islam_Mosad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -119,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

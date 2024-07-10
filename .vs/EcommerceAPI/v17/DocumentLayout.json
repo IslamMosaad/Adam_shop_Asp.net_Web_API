@@ -1,38 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\",
+  "WorkspaceRootPath": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\nvidia\\downloads\\ecp\\visual studio project\\adam_shop_asp.net_web_api\\ecommerceapi\\services\\cacheservices\\productcachem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\services\\cacheservices\\productcachem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\nvidia\\downloads\\ecp\\visual studio project\\adam_shop_asp.net_web_api\\ecommerceapi\\services\\cacheservices\\sharedcache\\memorymappedfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\services\\cacheservices\\sharedcache\\memorymappedfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\nvidia\\downloads\\ecp\\visual studio project\\adam_shop_asp.net_web_api\\ecommerceapi\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\islam_mosad\\downloads\\visual studio\\adam\u0027s shop api\\adam_shop_asp.net_web_api\\ecommerceapi\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\nvidia\\downloads\\ecp\\visual studio project\\adam_shop_asp.net_web_api\\ecommerceapi\\services\\cacheservices\\rediscache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\services\\cacheservices\\rediscache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\islam_mosad\\downloads\\visual studio\\adam\u0027s shop api\\adam_shop_asp.net_web_api\\ecommerceapi\\services\\cacheservices\\sharedcache\\memorymappedfilestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\services\\cacheservices\\sharedcache\\memorymappedfilestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\nvidia\\downloads\\ecp\\visual studio project\\adam_shop_asp.net_web_api\\ecommerceapi\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\islam_mosad\\downloads\\visual studio\\adam\u0027s shop api\\adam_shop_asp.net_web_api\\ecommerceapi\\controllers\\cachestringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\cachestringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\nvidia\\downloads\\ecp\\visual studio project\\adam_shop_asp.net_web_api\\ecommerceapi\\services\\cacheservices\\irediscache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\services\\cacheservices\\irediscache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\nvidia\\downloads\\ecp\\visual studio project\\adam_shop_asp.net_web_api\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\nvidia\\downloads\\ecp\\visual studio project\\adam_shop_asp.net_web_api\\ecommerceapi\\services\\cacheservices\\iproductcachem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\services\\cacheservices\\iproductcachem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\islam_mosad\\downloads\\visual studio\\adam\u0027s shop api\\adam_shop_asp.net_web_api\\ecommerceapi\\services\\cacheservices\\sharedcache\\memorymappedfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD697B5F-CCE5-4061-BA8A-F786A5B2030B}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\services\\cacheservices\\sharedcache\\memorymappedfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,104 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CacheController.cs",
-              "DocumentMoniker": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Controllers\\CacheController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\CacheController.cs",
-              "ToolTip": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Controllers\\CacheController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\CacheController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Title": "CacheStringController.cs",
+              "DocumentMoniker": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Controllers\\CacheStringController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\CacheStringController.cs",
+              "ToolTip": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Controllers\\CacheStringController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\CacheStringController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:54:38.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MemoryMappedFileHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\sharedCache\\MemoryMappedFileHelper.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Services\\cacheServices\\sharedCache\\MemoryMappedFileHelper.cs",
-              "ToolTip": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\sharedCache\\MemoryMappedFileHelper.cs",
-              "RelativeToolTip": "EcommerceAPI\\Services\\cacheServices\\sharedCache\\MemoryMappedFileHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:53:06.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RedisCache.cs",
-              "DocumentMoniker": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\RedisCache.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Services\\cacheServices\\RedisCache.cs",
-              "ToolTip": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\RedisCache.cs",
-              "RelativeToolTip": "EcommerceAPI\\Services\\cacheServices\\RedisCache.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAASwBEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:30:43.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Program.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Program.cs",
-              "RelativeToolTip": "EcommerceAPI\\Program.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAAAKQAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:26:55.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductCacheM.cs",
-              "DocumentMoniker": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\ProductCacheM.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Services\\cacheServices\\ProductCacheM.cs",
-              "ToolTip": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\ProductCacheM.cs",
-              "RelativeToolTip": "EcommerceAPI\\Services\\cacheServices\\ProductCacheM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:25:16.137Z",
+              "WhenOpened": "2024-07-10T10:20:20.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DishController.cs",
-              "DocumentMoniker": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Controllers\\DishController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\DishController.cs",
-              "ToolTip": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Controllers\\DishController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\DishController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAiwCQAAAA5AAAA",
+              "DocumentIndex": 1,
+              "Title": "MemoryMappedFileString.cs",
+              "DocumentMoniker": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\sharedCache\\MemoryMappedFileString.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Services\\cacheServices\\sharedCache\\MemoryMappedFileString.cs",
+              "ToolTip": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\sharedCache\\MemoryMappedFileString.cs",
+              "RelativeToolTip": "EcommerceAPI\\Services\\cacheServices\\sharedCache\\MemoryMappedFileString.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAuwGQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:27:41.238Z"
+              "WhenOpened": "2024-07-10T10:16:52.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IProductCacheM.cs",
-              "DocumentMoniker": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\IProductCacheM.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Services\\cacheServices\\IProductCacheM.cs",
-              "ToolTip": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\IProductCacheM.cs",
-              "RelativeToolTip": "EcommerceAPI\\Services\\cacheServices\\IProductCacheM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "CacheController.cs",
+              "DocumentMoniker": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Controllers\\CacheController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\CacheController.cs",
+              "ToolTip": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Controllers\\CacheController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\CacheController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:25:17.496Z"
+              "WhenOpened": "2024-07-10T08:13:45.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRedisCache.cs",
-              "DocumentMoniker": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\IRedisCache.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Services\\cacheServices\\IRedisCache.cs",
-              "ToolTip": "C:\\Users\\Nvidia\\Downloads\\ecp\\visual studio project\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\IRedisCache.cs",
-              "RelativeToolTip": "EcommerceAPI\\Services\\cacheServices\\IRedisCache.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "DocumentIndex": 3,
+              "Title": "MemoryMappedFileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\sharedCache\\MemoryMappedFileHelper.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Services\\cacheServices\\sharedCache\\MemoryMappedFileHelper.cs",
+              "ToolTip": "C:\\Users\\Islam_Mosad\\Downloads\\visual studio\\Adam\u0027s shop api\\Adam_shop_Asp.net_Web_API\\EcommerceAPI\\Services\\cacheServices\\sharedCache\\MemoryMappedFileHelper.cs",
+              "RelativeToolTip": "EcommerceAPI\\Services\\cacheServices\\sharedCache\\MemoryMappedFileHelper.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAArwK8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:25:12.355Z"
+              "WhenOpened": "2024-07-10T07:49:10.986Z",
+              "EditorCaption": ""
             }
           ]
         }
